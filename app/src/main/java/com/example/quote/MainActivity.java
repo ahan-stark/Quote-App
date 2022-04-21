@@ -10,6 +10,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
+    //to generate random number
     Random random = new Random();
     TextView txt;
     Button btn;
